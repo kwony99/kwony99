@@ -21,4 +21,4 @@
 
 ## 📫 연락처
 - Email: [khpark030905@naver.com]
-
+- 기술 블로그: [velog.io/@kwony99](https://velog.io/@kwony99)
